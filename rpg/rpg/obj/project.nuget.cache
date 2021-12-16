@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Bkg/MBOE+NuPPv2wySNfbpWRBV/xwYyfAMDxexA7hwTHReH4zawJ9qoxz880QrD3UPJO+LBUiNvyaj6f2/9Dgw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\เช็คกี้\\source\\repos\\rpg\\rpg\\rpg.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\เช็คกี้\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

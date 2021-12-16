@@ -1,0 +1,14 @@
+C:\Users\เช็คกี้\source\repos\rpg\rpg\obj\Debug\netcoreapp3.1\rpg.csprojAssemblyReference.cache
+C:\Users\เช็คกี้\source\repos\rpg\rpg\obj\Debug\netcoreapp3.1\rpg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\เช็คกี้\source\repos\rpg\rpg\obj\Debug\netcoreapp3.1\rpg.AssemblyInfoInputs.cache
+C:\Users\เช็คกี้\source\repos\rpg\rpg\obj\Debug\netcoreapp3.1\rpg.AssemblyInfo.cs
+C:\Users\เช็คกี้\source\repos\rpg\rpg\obj\Debug\netcoreapp3.1\rpg.csproj.CoreCompileInputs.cache
+C:\Users\เช็คกี้\source\repos\rpg\rpg\bin\Debug\netcoreapp3.1\rpg.exe
+C:\Users\เช็คกี้\source\repos\rpg\rpg\bin\Debug\netcoreapp3.1\rpg.deps.json
+C:\Users\เช็คกี้\source\repos\rpg\rpg\bin\Debug\netcoreapp3.1\rpg.runtimeconfig.json
+C:\Users\เช็คกี้\source\repos\rpg\rpg\bin\Debug\netcoreapp3.1\rpg.runtimeconfig.dev.json
+C:\Users\เช็คกี้\source\repos\rpg\rpg\bin\Debug\netcoreapp3.1\rpg.dll
+C:\Users\เช็คกี้\source\repos\rpg\rpg\bin\Debug\netcoreapp3.1\rpg.pdb
+C:\Users\เช็คกี้\source\repos\rpg\rpg\obj\Debug\netcoreapp3.1\rpg.dll
+C:\Users\เช็คกี้\source\repos\rpg\rpg\obj\Debug\netcoreapp3.1\rpg.pdb
+C:\Users\เช็คกี้\source\repos\rpg\rpg\obj\Debug\netcoreapp3.1\rpg.genruntimeconfig.cache
